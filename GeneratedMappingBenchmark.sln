@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunTimeMapping", "RunTimeMapping\RunTimeMapping.csproj", "{A083941D-4DCF-4602-8566-14A5AEA2489E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunTimeMappingTests", "RunTimeMappingTests\RunTimeMappingTests.csproj", "{844D03BD-6E7D-4A1D-B9BE-A995B9AF22C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A083941D-4DCF-4602-8566-14A5AEA2489E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A083941D-4DCF-4602-8566-14A5AEA2489E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A083941D-4DCF-4602-8566-14A5AEA2489E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A083941D-4DCF-4602-8566-14A5AEA2489E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844D03BD-6E7D-4A1D-B9BE-A995B9AF22C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844D03BD-6E7D-4A1D-B9BE-A995B9AF22C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844D03BD-6E7D-4A1D-B9BE-A995B9AF22C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844D03BD-6E7D-4A1D-B9BE-A995B9AF22C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
